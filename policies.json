@@ -1,0 +1,10 @@
+[
+  {"id":"water-backup","title":"Sewer backup endorsement","text":"Sewer or drain backup is eligible for coverage only when the water backup endorsement appears on the declarations. The endorsement covers sudden backup into the dwelling.","requires":["backup-limit"]},
+  {"id":"backup-limit","title":"WB-01 payment schedule","text":"WB-01 pays up to $10,000 per occurrence, subject to a $500 deductible.","requires":[]},
+  {"id":"flood","title":"Flood exclusion","text":"The base homeowners policy excludes surface flooding, including overflow from a river. Separate flood coverage may be available.","requires":[]},
+  {"id":"theft","title":"Theft of personal property","text":"Theft of personal property from the dwelling is covered. The insured must provide a police report.","requires":["jewelry-limit"]},
+  {"id":"jewelry-limit","title":"PP-04 scheduled valuables","text":"PP-04 caps unscheduled jewelry at $1,500 per occurrence. Items listed individually follow the amount shown on their schedule.","requires":[]},
+  {"id":"temporary-living","title":"Temporary living expenses","text":"If a covered loss makes the dwelling uninhabitable, reasonable additional living expenses are reimbursable for up to 12 months.","requires":[]},
+  {"id":"notice","title":"Claim reporting","text":"Report a loss as soon as practical. Keep receipts and take reasonable steps to prevent further damage.","requires":[]},
+  {"id":"vacancy","title":"Vacancy condition","text":"Vandalism is excluded after the dwelling has been vacant for more than 60 consecutive days.","requires":[]}
+]

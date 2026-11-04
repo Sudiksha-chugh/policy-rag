@@ -1,0 +1,12 @@
+[
+  {"question":"Does the sewer backup endorsement cover my dwelling, and what is the deductible?", "expected":["water-backup","backup-limit"]},
+  {"question":"What are the terms for sewer backup damage?", "expected":["water-backup","backup-limit"]},
+  {"question":"Does theft from the dwelling cover a stolen necklace?", "expected":["theft","jewelry-limit"]},
+  {"question":"Does a river overflowing qualify for coverage under the base policy?", "expected":["flood"]},
+  {"question":"How long are temporary living expenses reimbursable?", "expected":["temporary-living"]},
+  {"question":"What happens to vandalism coverage when my dwelling is vacant for 90 days?", "expected":["vacancy"]},
+  {"question":"Should I keep receipts after a loss?", "expected":["notice"]},
+  {"question":"How do I reset my password?", "expected":[]},
+  {"question":"Does my policy cover dental surgery?", "expected":[]},
+  {"question":"What are the exclusions for earthquake damage?", "expected":[]}
+]
